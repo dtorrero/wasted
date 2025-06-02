@@ -2,7 +2,8 @@
 ### **1. Problem Definition**
 - **Goal**: Classify trash images into categories (e.g., plastic, paper, metal, glass, organic, non-recyclable).  
 - **Input**: Images of trash items.  
-- **Output**: Predicted recycling category.  
+- **Output**: Predicted recycling category.
+- **Output 2** Say the predicted category in voice, for blind users. 
 
 ---
 
