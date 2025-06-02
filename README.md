@@ -11,7 +11,9 @@
 - **Pre-existing Datasets**:  
   - [TACO (Trash Annotations in Context)](http://tacodataset.org/) (~1,500 images, 60 categories).  
   - [Waste Classification Data](https://www.kaggle.com/datasets/techsash/waste-classification-data) (Organic vs. Recyclable).  
-  - [Drink Waste Images](https://www.kaggle.com/datasets/antoreepjana/drink-waste-classification) (Plastic bottles, cans, etc.).  
+  - [Drink Waste Images](https://www.kaggle.com/datasets/antoreepjana/drink-waste-classification) (Plastic bottles, cans, etc.).
+  - [Garbage Classification](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification) (2527 Images, in 6 categories: paper, glass, plastic, metal, cardboard, trash)
+
 - **Custom Dataset**:  
   - Collect images using a phone/web scraping (ensure diversity in lighting/angles).  
   - Label with tools like [LabelImg](https://github.com/tzutalin/labelImg) (for bounding boxes) or simply folder-based classification.  
