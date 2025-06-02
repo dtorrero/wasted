@@ -49,9 +49,9 @@ Choose a pre-trained CNN model and fine-tune it:
 **Choose a pre-trained model**:  
 - **MobileNetV2** (fast, lightweight) or **EfficientNetB0** (better accuracy).  
 
-- **Add custom layers**:  
+- **Freeze base model**:
 
-- **Freeze base model**:  
+- **Add custom layers**:  
 ---
 
 #### **3. Training Pipeline**  
